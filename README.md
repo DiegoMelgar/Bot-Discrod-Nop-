@@ -1,3 +1,5 @@
 # Bot-Discrod-Nop-
-##Comand initial the server of bot
-"npm run dev"
+
+#Develop
+**Comand initial the server of bot
+***npm run devv
